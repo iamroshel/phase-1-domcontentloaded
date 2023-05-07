@@ -1,4 +1,4 @@
-# The JavaScript DOMContentLoaded Event
+# The JavaScript DOMContentLoaded Event c
 
 ## Learning Goals
 
